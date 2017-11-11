@@ -20,7 +20,7 @@
             "Default": "0800"
         },
         "DefaultStopTime": {
-            "Description": "Default Start Time (UTC, 24-hour format)",
+            "Description": "Default Stop Time (UTC, 24-hour format)",
             "Type": "String",
             "Default": "1800"
         },
